@@ -22,11 +22,13 @@ git log --oneline        # Consulter l’historique
 ## Branches et dépôt distant
 
 ```bash
-git branch               # Lister les branches
-git switch -c <branche>  # Créer et rejoindre une branche
-git switch <branche>     # Changer de branche
-git pull                 # Récupérer les changements
-git push                 # Envoyer les commits
+git branch                 # Lister les branches
+git checkout -b <branche>  # creation d'une branche
+git switch -c <branche>    # Créer et rejoindre une branche
+git switch <branche>       # Changer de branche
+git pull                   # Récupérer les changements
+git push                   # Envoyer les commits
+
 ```
 ```bash
 git remote add origin    #<URL-du-dépôt>
