@@ -30,6 +30,6 @@ git push                 # Envoyer les commits
 ```
 ```bash
 git remote add origin    #<URL-du-dépôt>
-...
+```
 
 Vérifiez les changements avec `git status` avant de les enregistrer. Utilisez un message de commit court et descriptif.
