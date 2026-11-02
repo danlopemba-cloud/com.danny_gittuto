@@ -35,3 +35,5 @@ git remote add origin    #<URL-du-dépôt>
 ```
 
 Vérifiez les changements avec `git status` avant de les enregistrer. Utilisez un message de commit court et descriptif.
+
+pour les bonnes pratique, on va integrer la notion revue de code. pour cela, on va créer une brache , faire des modifications, les envoyer sur le dépôt distant, puis créer une pull resquest pour demander une revued de code.
