@@ -14,7 +14,7 @@ git status               # Consulter l’état des fichiers
 
 ```bash
 git add <fichier>        # Préparer un fichier
-git add .                # Préparer toutes les modifications avant le commit
+git add .                # Préparer toutes les modifications des fichiers
 git commit -m "Message"  # Créer un commit
 git log --oneline        # Consulter l’historique
 ```
